@@ -2,7 +2,8 @@ name "app"
 description "role applied to all nodes"
 
 run_list=[
-  "role[base]"
+  "role[base]",
+  "recipe[apache2]"
 ]
 
 env_run_lists(

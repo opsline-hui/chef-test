@@ -1,0 +1,9 @@
+{
+  "id"        : "hliang",
+  "comment"   : "Hui Liang",
+  "home"      : "/home/hliang",
+  "shell"     :	"/bin/bash",
+  "groups"    : ["sysadmin"],
+  "password"  : "",
+  "ssh_keys"  : ["ssh-rsa "]
+}
